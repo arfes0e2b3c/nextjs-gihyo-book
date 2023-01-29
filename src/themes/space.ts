@@ -1,3 +1,4 @@
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const space: any = ['Opx', '8px', '16px', '32px', '64px']
 // aliases
 space.small = space[1]
